@@ -7,7 +7,7 @@
 Python ： 3.13.5
 
 ## 用到的库
-```python
+```txt
 colorama==0.4.6
 imageio-ffmpeg==0.6.0
 pillow==11.3.0
