@@ -1,6 +1,8 @@
 # Audio-Conversion
 在 Python 使用ffmpeg转换任意音频至指定码率指定比特率的指定文件，用于制作Edge TX系统的语音包
 
+<https://misakaae.com/archives/rc-soundpack-re>
+
 ## 测试环境
 系统：Windows 11 Pro 24H2
 
